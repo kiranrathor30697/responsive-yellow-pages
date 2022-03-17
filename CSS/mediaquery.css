@@ -1,7 +1,7 @@
 
 @media only screen and (min-width: 0px) and (max-width: 768px) {
     .container, .container-fluid, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl{
-        width: 100% !important;
+        display:none !important;
     }
     .k_mediaquery{
         padding: 0px !important;
