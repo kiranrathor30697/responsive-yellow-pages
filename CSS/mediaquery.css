@@ -1,14 +1,10 @@
 
-@media only screen and (min-width: 0px) and (max-width: 768px) {
+@media only screen and (min-width: 0px) and (max-width: 576px) {
     .container, .container-fluid, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl{
-        display:none !important;
+        width: 100% !important;
     }
     .k_mediaquery{
         padding: 0px !important;
-    }
-    body{
-        width: 100%;
-        margin: 0px !important;
     }
 }
 @media only screen and (min-width: 577px) and (max-width: 768px) {
@@ -16,13 +12,9 @@
         width: 60% !important;
     }
 }
-@media only screen and (min-width: 769px) and (max-width: 992px) {
+@media only screen and (max-width: 769px) and (min-width: 992px) {
     .k_mediaquery{
-        width: 45% !important;
-    }
-    body{
-        width: 100%;
-        margin: 0px !important;
+        width: 40% !important;
     }
 }
 @media only screen and (min-width: 993px) {
