@@ -1,5 +1,5 @@
 
-@media only screen and (min-width: 0px) and (max-width: 576px) {
+@media only screen and (min-width: 0px) and (max-width: 768px) {
     .container, .container-fluid, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl{
         width: 100% !important;
     }
@@ -14,10 +14,6 @@
 @media only screen and (min-width: 577px) and (max-width: 768px) {
     .k_mediaquery{
         width: 60% !important;
-    }
-    body{
-        width: 100%;
-        margin: 0px !important;
     }
 }
 @media only screen and (min-width: 769px) and (max-width: 992px) {
