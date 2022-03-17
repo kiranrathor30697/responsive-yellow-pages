@@ -3,9 +3,6 @@
     .container, .container-fluid, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl{
         width: 100% !important;
     }
-    .k_mediaquery{
-        padding: 0px !important;
-    }
     .container > .border{
         border: none !important;
     }
