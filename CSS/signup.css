@@ -25,9 +25,6 @@
     .k_mediaquery{
         width:80% !important;
     }
-    .k_border_none{
-        border: none !important
-    }
     .k_or_disable{
         visibility: hidden !important
     }
