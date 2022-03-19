@@ -18,3 +18,24 @@ input{
 .k_textsize{
     font-size: 0.7em;
 }
+
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+    .container > .border{
+        border: none !important;
+    }
+}
+@media only screen and (min-width: 577px) and (max-width: 768px) {  
+    .k_mediaquery{
+        width: 45% !important;
+    }
+}
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+    .k_mediaquery{
+        width: 40% !important;
+    }
+}
+@media only screen and (min-width: 993px) {
+    .k_mediaquery{
+        width: 30% !important;
+    }
+}

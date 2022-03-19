@@ -1,4 +1,26 @@
+/* login css */
+.k_textcolor{
+    color:#ccc;
+}
+.k_footer_bg{
+    background-color: #f7f7f7;
+}
+.k_footertext{
+    color:#777;
+}
+.k_boxshadow:focus{
+    border:none;
+    border-radius: 2px !important;
+    outline: 1px solid #000;
+}
+input{
+    box-shadow: none!important;
+}
+.k_textsize{
+    font-size: 0.7em;
+}
 
+/* login media query */
 @media only screen and (min-width: 0px) and (max-width: 576px) {
     .container > .border{
         border: none !important;

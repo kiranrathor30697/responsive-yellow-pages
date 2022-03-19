@@ -1,0 +1,66 @@
+.tbdr{
+    border:1px solid #ccc;
+}
+a{
+    text-decoration: none;
+    color: #555;
+    font-size: 12px !important;
+}
+a.fb,a.google,.r_condition:hover{
+    color:#555;
+}
+.facebook{
+    height:39px ;
+}
+p{
+    font-size: 10px;
+}
+.r_footer{
+    min-height:180px;
+}
+
+.gray{
+    color: #99a5c2;
+    font-size: 12px;
+}
+form > a{
+    color: #067ac4;
+}
+.r_color > div > a{
+    color: #067ac4;;
+} 
+.footer_text{
+    font-size:14px;
+}
+.light_blue{
+    color:#fff;
+    background-color: #3cadc9 !important;
+    box-shadow: none!important;
+}
+.light_blue:hover{
+    color:#fff;
+}
+
+input{
+    box-shadow: none!important;
+}
+@media (min-width: 1200px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1062px;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+    main > div >div.row {
+        padding:0px !important;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+    main > div >div.row > div {
+        border:none !important;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+    .r_border{
+        border:none !important;
+    }
+}
