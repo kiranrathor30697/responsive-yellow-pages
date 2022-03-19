@@ -10,6 +10,8 @@
 @media only screen and (max-width:575px){
     .k_small{
         width:100% !important;
+        margin:0px !important;
+        padding: 0px !important;
     }
     .k_border_none{
         border: none !important
@@ -18,10 +20,15 @@
         visibility: hidden !important
     }
     .k_box1{
-        height: 270px !important;
+        height: 300px !important;
     }
 }
 @media  only screen and (min-width:576px) and (max-width:768px){
+    .k_small{
+        width:100% !important;
+        margin:0px !important;
+        padding: 0px !important;
+    }
     .k_border_none{
         border: none !important
     }
@@ -30,6 +37,9 @@
     }
     .k_border_top{
         border-top: 1px solid #ccc !important
+    }
+    .k_box1{
+        height: 300px !important;
     }
 }
 /* .k_z_index{
