@@ -1,7 +1,7 @@
 .k_or{
     z-index: 1500;  
     top: 180px;
-    left: 96%;
+    left: 95%;
 }
 .k_box1{
     height: 350px;
@@ -23,8 +23,8 @@
     .k_header_logo{
         padding: 0px !important;
     }
-    .border-end, .z-index-n1, .k_box1{
-        border: none !important;
+    .border-end, .z-index-n1 ,.k_box1{
+        border:none !important
     }
 }
 @media  only screen and (min-width:576px) and (max-width:768px){
@@ -34,14 +34,14 @@
     .k_or_disable{
         visibility: hidden !important
     }
+    .border-end, .z-index-n1 ,.k_box1{
+        border:none !important
+    }
     .k_box1{
         height: 300px !important;
     }
     .k_header_logo{
         padding:0px !important;
-    }
-    .border-end, .z-index-n1, .k_box1{
-        border: none !important;
     }
 }
 @media only screen and (min-width: 769px) and (max-width: 992px) {
@@ -51,16 +51,10 @@
     .k_box1{
         height: 300px !important;
     }
-    .border-end, .z-index-n1, .k_box1{
-        border: none !important;
-    }
 }
 @media only screen and (min-width: 993px) and (max-width: 1223px){
     .k_mediaquery{
         width: 70% !important;
-    }
-    .k_border_none{
-        border: none !important
     }
 }
 @media only screen and (min-width: 1224px) and (max-width: 1400px){
