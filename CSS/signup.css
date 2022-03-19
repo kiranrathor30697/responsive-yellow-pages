@@ -42,12 +42,12 @@
         .k_width{
             width:100% !important;
             border:0px !important;
+            margin: 0 !important;
         }
     }
     @media only screen and (min-width: 577px) and (max-width: 768px) {  
         .k_width{
-            width: 40% !important;
-           /*  margin:100px auto !important; */
+            width: 50% !important;  
         }
     }
     @media only screen and (min-width: 769px) and (max-width: 992px) {
