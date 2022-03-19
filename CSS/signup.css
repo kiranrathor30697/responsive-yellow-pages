@@ -11,6 +11,10 @@
     .k_mediaquery{
         width:100% !important;
     }
+    img {
+        max-width: 200px;
+        height: auto;
+      }
     .k_border_none{
         border: none !important
     }
@@ -20,11 +24,9 @@
     .k_box1{
         height: 300px !important;
     }
-    .k_header_logo{
-        padding: 0px !important;
-    }
     .border-end, .z-index-n1 ,.k_box1{
-        border:none !important
+        border:none !important;
+        padding-top:0 !important;
     }
 }
 @media  only screen and (min-width:576px) and (max-width:768px){
@@ -39,9 +41,6 @@
     }
     .k_box1{
         height: 300px !important;
-    }
-    .k_header_logo{
-        padding:0px !important;
     }
 }
 @media only screen and (min-width: 769px) and (max-width: 992px) {
