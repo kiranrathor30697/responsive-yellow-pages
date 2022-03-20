@@ -11,10 +11,6 @@
     .k_mediaquery{
         width:100% !important;
     }
-    img {
-        max-width: 200px;
-        height: auto;
-      }
     .k_border_none{
         border: none !important
     }
@@ -64,81 +60,3 @@
         border: none !important
     }
 }
-/* .k_z_index{
-    z-index: 1200;
-}
-.k_z_index2{
-    height: 350px;
-}
-.k_or{
-    z-index: 1500;  
-    top: 140px;
-    left: 96%;
-}
-.k_hover:hover {
-    color: #555555 !important;
-}
-.k_textsize{
-    font-size:0.7em;
-}
-.font_family{
-    font-family: helvetica,arial,sans-serif;
-}
-table, th, td{
-    border: 1px solid;
-}
-@media only screen and (max-width: 767px) {
-    .k_or{
-        visibility:hidden;
-        }    
-    } 
-@media only screen and (max-width:576px) {
-}
-    @media only screen and (min-width: 0px) and (max-width: 576px) {
-        .k_width{
-            width:100% !important;
-            border:0px !important;
-            offset: none !important;
-            margin: 100 auto !important;
-        }
-        .k_mediaquery{
-            margin: 20px auto !important;
-        }
-        .k_mediaquery2{
-            margin-bottom: 0px !important;
-        }
-        .k_z_index, .k_z_index2{
-            border: none !important;
-        }
-        .k_or{
-            visibility: hidden !important;
-        }
-        form{
-            width: 100% !important;
-            margin: 0 auto !important
-        }
-        body{
-            width: 100% !important;
-
-        }
-    }
-    @media only screen and (min-width: 577px) and (max-width: 768px) {  
-        .k_width{
-            width: 100% !important;  
-            height:50% !important;
-            margin: 100px auto !important;
-        }
-    }
-    @media only screen and (min-width: 769px) and (max-width: 992px) {
-        .k_width{
-            width: 60% !important;/* 
-            margin: 100px auto !important; 
-        }
-       
-    }
-    @media only screen and (min-width: 993px) {
-        .k_width{
-            width: 50% !important;
-            margin: 100px auto !important; 
-        }
-    } */
