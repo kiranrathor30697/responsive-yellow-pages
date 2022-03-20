@@ -1,0 +1,83 @@
+.k_font{
+    font-size:0.8em !important;
+}
+.bg_img{
+    height:155px;
+    background-image:url("../img/chicago-il.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.text_position{
+    padding-top: 105px;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <div class="container">
+        <ul class="nav d-flex justify-content-center row">
+          <li class="nav-item col-2 col-sx-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1 p-0">
+            <a class="nav-link" href="#">
+              <img src="img/restaurants-1.svg" class="ps-3 border pe-3 rounded-circle" style="border:1px solid blue !important" width="55" height="55" alt="image not found">
+              <span class="d-block text-body k_font">Restaurants</span>
+            </a>
+          </li>
+          <li class="nav-item col-2 col-sx-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1 p-0">
+            <a class="nav-link" href="#">
+              <img src="img/auto-repair-1.svg" class="ps-3 border pe-3 rounded-circle d-inline-block" style="border:1px solid blue !important;" width="55" height="55" alt="image not found">
+              <span class="d-block text-body k_font">Auto Repair hello</span>
+            </a>
+          </li>
+          <li class="nav-item col-2 col-sx-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1">
+            <a class="nav-link" href="#">
+              <img src="img/doctors-1.svg" class="ps-3 border pe-3 rounded-circle" style="border:1px solid blue !important" width="55" height="55" alt="image not found">
+              <span class="d-block text-body k_font">Doctors</span>
+            </a>
+          </li>
+          <li class="nav-item col-2 col-sx-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1">
+            <a class="nav-link" href="#">
+              <img src="img/plumbers-1.svg" class="ps-3 border pe-3 rounded-circle" style="border:1px solid blue !important" width="55" height="55" alt="image not found">
+              <span class="d-block text-body k_font">Plumbers</span>
+            </a>
+          </li>
+          <li class="nav-item col-2 col-sx-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1">
+              <a class="nav-link" href="#">
+                <img src="img/animal-shelters-1.svg" class="ps-3 border pe-3 rounded-circle  ps-3" style="border:1px solid blue !important;" width="55" height="55" alt="image not found">
+                <span class="d-block text-body k_font  ">Animal Shelter</span>
+              </a>
+          </li>
+          <li class="nav-item col-2 col-sx-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1">
+              <a class="nav-link" href="#">
+                <img src="img/insurance-1.svg" class="ps-3 border pe-3 rounded-circle" style="border:1px solid blue !important;" width="55" height="55" alt="image not found">
+                <span class="d-block text-center text-body">Insurance</span>
+              </a>
+          </li>
+          <li class="nav-item col-2 col-sx-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1">
+              <a class="nav-link" href="#">
+                <img src="img/attorneys-1.svg" class="ps-3 border pe-3 rounded-circle" style="border:1px solid blue !important" width="55" height="55" alt="image not found">
+                <span class="d-block text-body k_font">Attorneys</span>
+              </a>
+          </li>
+          <li class="nav-item col-2 col-sx-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 col-xxl-1">
+            <a class="nav-link" href="#">
+              <img src="img/massage-1.svg" class="ps-3 border pe-3 rounded-circle" style="border:1px solid blue !important" width="55" height="55" alt="image not found">
+              <span class="d-block text-body k_font">Massage</span>
+            </a>
+          </li>
+          <li>
+            
+          </li>
+        </ul>
+      </div> */
