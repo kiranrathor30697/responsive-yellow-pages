@@ -18,11 +18,14 @@
   height:70px;
   border: 1px solid #4ca3b8;
 }
-/* @media only screen and (max-width:567px){
-  .container.container-fluid.container-sm.container-md.container-lg.container-xl.container-xxl{
+@media only screen and (max-width:567px){
+  /* .container.container-fluid.container-sm.container-md.container-lg.container-xl.container-xxl{
     width:100% !important;
+  } */
+  .k_box1{
+    
   }
-} */
+}
 
 
 
