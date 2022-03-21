@@ -23,13 +23,17 @@
     width:100% !important;
   } 
   .k_box1{
-    width:100% !important;
-    margin: none !important;
+    width:90% !important;
   }
   .k_img_box{
     width:50px;
     height:50px;
+  }
 }
+@media only screen and (min-width:568px) and (max-width:991px) {
+  .k_box1{
+   width:60% !important;
+  }
 }
 
 
