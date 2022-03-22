@@ -18,6 +18,9 @@
   height:70px;
   border: 1px solid #4ca3b8;
 }
+.k_box_height{
+  height:281px;
+}
 .k_bg1{
   background-image: linear-gradient(to right,#DE3A61, #E6545C);
 }
@@ -26,6 +29,24 @@
 }
 .k_bg3{
   background-image: linear-gradient(to right,#389851, #4AAD4F);
+}
+.k_bg_row1{
+  background-color: #EA737D;
+}
+.k_bg_row2{
+  background-color: #73BBBF;
+}
+.k_bg_row3{
+  background-color: #74C373;
+}
+.k_btn_color1{
+  background-color: #B4364C;
+}
+.k_btn_color2{
+  background-color: #3A798C;
+}
+.k_btn_color3{
+  background-color: #348240;
 }
 @media only screen and (max-width:567px){
    .container.container-fluid.container-sm.container-md.container-lg.container-xl.container-xxl{
