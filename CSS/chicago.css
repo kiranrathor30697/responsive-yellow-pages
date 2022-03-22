@@ -32,7 +32,10 @@
 }
 @media only screen and (min-width:568px) and (max-width:991px) {
   .k_box1{
-   width:60% !important;
+   width:100% !important;
+  }
+  .k_img_box2{
+    margin:0px 20px 30px 20px !important;
   }
 }
 
