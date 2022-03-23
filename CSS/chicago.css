@@ -19,7 +19,7 @@
   border: 1px solid #4ca3b8;
 }
 .k_box_height{
-  height:281px;
+  min-height:281px;
 }
 .k_bg1{
   background-image: linear-gradient(to right,#DE3A61, #E6545C);
@@ -53,7 +53,7 @@
     width:100% !important;
   } 
   .k_box1{
-    width:90% !important;
+    width:100% !important;
   }
   .k_img_box{
     width:50px;
@@ -66,6 +66,9 @@
   }
   .k_img_box2{
     margin:0px 20px 30px 20px !important;
+  }
+  .k_box_padding{
+    padding:0px !important;
   }
 }
 
